@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre o Projeto
 
-**C.R.I.S. Referencia** é uma recriação fiel da página de agentes do [C.R.I.S. Ordem Paranormal](https://crisordemparanormal.com/agentes), otimizada para mesas de RPG online do "A INFECÇÃO". 
+**A INFECÇÃO** é uma recriação fiel da página de agentes do [C.R.I.S. Ordem Paranormal](https://crisordemparanormal.com/agentes), otimizada para mesas de RPG online do "A INFECÇÃO". 
 
 **Recursos principais:**
 - ✅ Fichas completas de agentes (Força, Agilidade, Intelecto, Presença, Vigor)
