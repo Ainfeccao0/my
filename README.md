@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre o Projeto
 
-**A INFECÇÃO** é uma recriação fiel da página de agentes do [C.R.I.S. Ordem Paranormal](https://crisordemparanormal.com/agentes), otimizada para mesas de RPG online do "A INFECÇÃO". 
+**A INFECÇÃO** é uma criação fiel de página, otimizada para mesas de RPG online do "A INFECÇÃO". 
 
 **Recursos principais:**
 - ✅ Fichas completas de agentes (Força, Agilidade, Intelecto, Presença, Vigor)
