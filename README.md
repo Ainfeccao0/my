@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![WhatsApp Image 2026-02-02 at 11 13 31](https://github.com/user-attachments/assets/684ea1a7-0d71-4af7-b568-8683e1222bdb)
+  <img src="![WhatsApp Image 2026-02-02 at 11 13 31](https://github.com/user-attachments/assets/25bd7b97-e601-4a16-ab98-defe574910f3)
 " alt="Banner">
   <h1>A INFECÇÃO</h1>
   <p><b>🧟 Plataforma completa para fichas de agentes do RPG </b></p>
