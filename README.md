@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1a0f2e/8b00ff?text=C.R.I.S.+Clone+-+Ordem+Paranormal+RPG" alt="Banner">
+  <img src="![WhatsApp Image 2026-02-02 at 11 13 31](https://github.com/user-attachments/assets/684ea1a7-0d71-4af7-b568-8683e1222bdb)
+" alt="Banner">
   <h1>A INFECÇÃO</h1>
   <p><b>🧟 Plataforma completa para fichas de agentes do RPG </b></p>
   
